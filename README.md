@@ -31,8 +31,8 @@ All files related to React components are stored in `src` folder, which in it co
 `assets` folder includes all static file required for the project. In this project, this folder has `image` folder that store `.png` logo of Kitabisa.
 
 ### Components
-Components are seperated into folder exclusive for it. It other word, each folder represent one single reusable component and other things associated with it. In this project, a component folder includes :
-- `index.tsx` - a component itself
+Components includes all components related to the project. Each folder in it represent one single reusable component and others associated with it. In this project, a component folder includes :
+- `index.tsx` - a component itself and styles defined in it
 - `Component.test.tsx` - describe testing for the component
 - `types.ts` - any interface or type definition related to the component
 
