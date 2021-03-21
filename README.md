@@ -3,7 +3,7 @@
 ![Project screenshot](./docs/sample.png 'Project screenshot')
 
 ## Introduction
-This project was created to fulfill of the recruitment process of Kitabisa.com, bootstrapped with : 
+This project was created to fulfill recruitment process of Kitabisa.com, bootstrapped with : 
 - [React](https://reactjs.org/)
 - [Webpack](https://webpack.js.org/)
 - [Babel](https://babeljs.io/)
